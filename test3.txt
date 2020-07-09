@@ -1,0 +1,3 @@
+Es -> Es + Ttdsa | Ttdsa
+Ttdsa -> Ttdsa * Ffff | Ffff
+Ffff -> ( Es ) | i
